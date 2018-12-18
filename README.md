@@ -24,3 +24,6 @@ Dead: When the process is complete Thread goes to Dead.
 Running: Run a thread
 
 
+![alt text](https://github.com/BaharAdineh/MultiThreading-Java/blob/master/Thread-LifeCycle.jpg)
+
+
